@@ -4,4 +4,5 @@ __pycache__/
 data/
 input/
 .vscode/
+submission/
 mlruns/
