@@ -1,0 +1,17 @@
+{
+  "id": "harupy/xgboost-gpu",
+  "id_no": 5279674,
+  "title": "xgboost-gpu",
+  "code_file": "xgboost-gpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ieee-fraud-detection"
+  ]
+}

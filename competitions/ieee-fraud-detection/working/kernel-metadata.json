@@ -1,0 +1,13 @@
+{
+  "id": "harupy/api-test",
+  "title": "api-test",
+  "code_file": "./submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["ieee-fraud-detection"],
+  "kernel_sources": []
+}
