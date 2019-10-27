@@ -3,7 +3,7 @@ from datetime import datetime
 from collections import MutableMapping
 
 
-def make_timestamp():
+def timestamp():
     return datetime.now().strftime("%Y%m%d%H%M%S")
 
 
